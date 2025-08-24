@@ -9,9 +9,9 @@
 
 ### 👋 WELCOME TO MY PAGE
 
-My name is Ly Hong Phat. I am an Infomation Technology engineer, majoring in Information System.
+My name is Ly Hong Phat. I am a Software Engineer, majoring in Information System.
 
-I am interested in the following topics: AI, web development, machine learning.
+I am interested in the following topics: AI, machine learning, web development, mobile application.
 
 Currently, I am improving my skills with the aim of becoming a full stack developer and am looking for opportunities to work with cross-platform systems and AI integration.
 
