@@ -39,18 +39,6 @@ Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
 <a href="https://github.com/lyhongphat/FindingBookWeb">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=FindingBookWeb&theme=tokyonight" />
 </a>
-<a href="https://github.com/lyhongphat/RecruitWeb">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=RecruitWeb&theme=dark" />
-</a>
-<a href="https://github.com/lyhongphat/TLCN_FRONTEND">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=TLCN_FRONTEND&theme=dark" />
-</a>
-<a href="https://github.com/lyhongphat/BDSE-web">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=BDSE-web&theme=tokyonight" />
-</a>
-<a href="https://github.com/lyhongphat/QuanLyHoSoBenhAn">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=QuanLyHoSoBenhAn&theme=tokyonight" />
-</a>
 <a href="https://github.com/lyhongphat/finalProject_MachineLearning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=finalProject_MachineLearning&theme=dark" />
 </a>
