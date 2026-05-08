@@ -21,12 +21,6 @@ LinkedIn: [linkedin.com/in/lyhongphat/](linkedin.com/in/lyhongphat/)
 
 Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
 
-![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github&theme=tokyonight)
-
-<!-- GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`). -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true&theme=dark)
-
 <a href="https://github.com/lyhongphat/SoraNoUta">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=SoraNoUta&theme=dark" />
 </a>
